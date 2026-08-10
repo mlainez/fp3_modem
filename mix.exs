@@ -17,9 +17,9 @@ defmodule Fp3Modem.MixProject do
 
   defp deps do
     [
-      {:qmi, path: "../qmi"},
+      {:qmi, github: "mlainez/qmi"},
       {:vintage_net, "~> 0.13"},
-      {:vintage_net_qmi, path: "../vintage_net_qmi"}
+      {:vintage_net_qmi, github: "mlainez/vintage_net_qmi"}
     ]
   end
 end
