@@ -17,9 +17,9 @@ defmodule Fp3Modem.MixProject do
 
   defp deps do
     [
-      {:qmi, github: "mlainez/qmi"},
+      {:qmi, github: "mlainez/qmi", branch: "qrtr-transport"},
       {:vintage_net, "~> 0.13"},
-      {:vintage_net_qmi, github: "mlainez/vintage_net_qmi"}
+      {:vintage_net_qmi, github: "mlainez/vintage_net_qmi", branch: "qrtr-transport"}
     ]
   end
 end
