@@ -3,7 +3,7 @@
   "elixir_make": {:hex, :elixir_make, "0.10.0", "16577e2583a79bb79237bbff349619ef5d80afffc07eac6e4faf0d00e2ddaf7d", [:mix], [], "hexpm", "dc1f09fb7fa68866b886abd5f0f3c83553b1a19a52359a899e92af1bb3b31982"},
   "muontrap": {:hex, :muontrap, "1.8.0", "3c5dab5bc91d5a16d14cd85b130ae7d35a9c469564a11ba4b2ebbcd7ccf5bc05", [:make, :mix], [{:elixir_make, "~> 0.6", [hex: :elixir_make, repo: "hexpm", optional: false]}], "hexpm", "45ff36451303cbdefe1c66da3681b5aff078ee5737348f554f0017daa66284af"},
   "property_table": {:hex, :property_table, "0.3.4", "576b20f586ee7366d53919289c1b6dee4bbe1946f6761bfb20dabf7875cb4d40", [:mix], [], "hexpm", "1a45e5d4915ba017822e9692b447432f786cf63c89a6d71b7582eef666fd54b9"},
-  "qmi": {:git, "https://github.com/mlainez/qmi.git", "efd48042d4f7aca76256bac5c1078dbf910d9542", [branch: "qrtr-transport"]},
+  "qmi": {:git, "https://github.com/mlainez/qmi.git", "fb696228f82d88d13c1202caf7b24e4c1cec758d", [branch: "qrtr-transport"]},
   "vintage_net": {:hex, :vintage_net, "0.13.13", "cdb34efa05c26e58678eab8b25d81fa272ad48a5255368268470288403526236", [:make, :mix], [{:beam_notify, "~> 0.2.0 or ~> 1.0", [hex: :beam_notify, repo: "hexpm", optional: false]}, {:elixir_make, "~> 0.6", [hex: :elixir_make, repo: "hexpm", optional: false]}, {:muontrap, "~> 0.5.1 or ~> 0.6.0 or ~> 1.0", [hex: :muontrap, repo: "hexpm", optional: false]}, {:property_table, "~> 0.2.0 or ~> 0.3.0", [hex: :property_table, repo: "hexpm", optional: false]}], "hexpm", "4849d48b9224303c1242b4b5f3d1561b4b28a999862a4540da584340052ffc64"},
   "vintage_net_qmi": {:git, "https://github.com/mlainez/vintage_net_qmi.git", "2d9cef5da51feeec49f6ffec5103d0734047e89c", [branch: "qrtr-transport"]},
 }
