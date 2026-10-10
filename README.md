@@ -1,9 +1,5 @@
 # fp3_modem
 
-> ### ⚠️ Very early work — built for a workshop, not for production
->
-> Written for the **Goatmire Elixir workshop** on running Nerves on Fairphone 3 hardware. There are no stability guarantees and APIs will change without notice.
-
 `VintageNet.PowerManager` for the Fairphone 3+ in-SoC modem (msm8953,
 MPSS firmware, IPA data path), talking QMI over QRTR.
 
